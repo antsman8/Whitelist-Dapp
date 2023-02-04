@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sha256-pow": "^0.1.9"
+  }
+}
